@@ -1,0 +1,82 @@
+[
+    {
+        "name": "App Image Logo 1",
+        "image": "https://i.ibb.co/s6p1FNc/app-imag-logo1-jpg.png",
+        "description": "This is the description for App Image Logo 1.",
+        "tags": ["app", "logo", "image"],
+        "external_links": ["https://example.com/product1"],
+        "upvote_count": 120
+    },
+    {
+        "name": "App Image Logo 2",
+        "image": "https://i.ibb.co/dmTsb9z/app-imag-logo2-jpg.png",
+        "description": "This is the description for App Image Logo 2.",
+        "tags": ["app", "logo", "design"],
+        "external_links": ["https://example.com/product2"],
+        "upvote_count": 85
+    },
+    {
+        "name": "Music Logo",
+        "image": "https://i.ibb.co/FDkvhM0/app-imag-logo3-jpg.png",
+        "description": "This is the description for Music Logo.",
+        "tags": ["music", "logo", "sound"],
+        "external_links": ["https://example.com/product3"],
+        "upvote_count": 200
+    },
+    {
+        "name": "Orange Star Logo",
+        "image": "https://i.ibb.co/Y02TGCH/app-imag-logo4-jpg.png",
+        "description": "This is the description for Orange Star Logo.",
+        "tags": ["star", "logo", "orange"],
+        "external_links": ["https://example.com/product4"],
+        "upvote_count": 150
+    },
+    {
+        "name": "Blue Star Logo",
+        "image": "https://i.ibb.co/48mLp67/app-imag-logo5-jpg.png",
+        "description": "This is the description for Blue Star Logo.",
+        "tags": ["star", "logo", "blue"],
+        "external_links": ["https://example.com/product5"],
+        "upvote_count": 90
+    },
+    {
+        "name": "Telegram Logo",
+        "image": "https://i.ibb.co/MGbvtBj/app-imag-logo6-jpg.png",
+        "description": "This is the description for Telegram Logo.",
+        "tags": ["telegram", "logo", "messaging"],
+        "external_links": ["https://example.com/product6"],
+        "upvote_count": 300
+    },
+    {
+        "name": "Cooking Logo",
+        "image": "https://i.ibb.co/ThNC72L/app-imag-logo7-jpg.png",
+        "description": "This is the description for Cooking Logo.",
+        "tags": ["cooking", "logo", "food"],
+        "external_links": ["https://example.com/product7"],
+        "upvote_count": 180
+    },
+    {
+        "name": "White Mobile Logo",
+        "image": "https://i.ibb.co/nrZTg3p/app-imag-logo8-jpg.png",
+        "description": "This is the description for White Mobile Logo.",
+        "tags": ["mobile", "logo", "white"],
+        "external_links": ["https://example.com/product8"],
+        "upvote_count": 220
+    },
+    {
+        "name": "Red Star Logo",
+        "image": "https://i.ibb.co/wNfmwcj/app-imag-logo9-jpg.png",
+        "description": "This is the description for Red Star Logo.",
+        "tags": ["star", "logo", "red"],
+        "external_links": ["https://example.com/product9"],
+        "upvote_count": 110
+    },
+    {
+        "name": "Instagram Logo",
+        "image": "https://i.ibb.co/GPp5v27/instagram-1675670-1280",
+        "description": "This is the description for Instagram Logo.",
+        "tags": ["instagram", "logo", "social media"],
+        "external_links": ["https://example.com/product10"],
+        "upvote_count": 400
+    }
+]
