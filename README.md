@@ -4,7 +4,7 @@ Welcome to our Product Hunt Website, a platform where users can discover and sha
 ##Client side :
 
 ### Live Site URL
-[Library Management](https://your-live-site-url.com/](https://voluble-puppy-45b389.netlify.app/)
+[Library Management](https://voluble-puppy-45b389.netlify.app/)
 
 
 ### Features
